@@ -5,7 +5,7 @@
 Go to the folder that matches your hardware (32/64)
 Then, go to the folder that matches your GPU (Intel/NVidia/AMD)
 
-Run Steam++.exe. Syscoms.bat is scanned by Steam++ to find commands, therefore choing the batch commands themselves.
+Run Steam++.exe. Syscoms.bat is scanned by Steam++ to find commands, therefore echoing the batch commands themselves.
 
 ### How to uninstall
 
