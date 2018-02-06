@@ -1,5 +1,5 @@
 # Steam-Plus-Plus
-
+(Completely unrelated to [Seishun's SteamPP C++ Library](https://github.com/seishun/SteamPP))
 ### How to Install
 
 Go to the folder that matches your hardware (32/64)
