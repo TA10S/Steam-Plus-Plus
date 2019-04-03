@@ -27,3 +27,6 @@ The only visible code is the echoes which are the commands themselves. No furthe
   at once instead of each other. See above. (Tested with PUBG, GMod, Paladins, HL2, Portal 2...)
 
 + Graphic patches, games that run on the HL2 engine now look better, due to making the GPU run HL2's graphic engine with less compression on the textures. (Doesn't affect the games directly, no need to worry about VAC-Bans)
+
+
+###Still working as of 4/3/19
